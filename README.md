@@ -9,8 +9,10 @@ To make it work:
 
 2. press add new script button
 
-3. copy pase script.js
+3. copy paste script.js
 
 4. save changes
 
 5. check it in action https://www.pathofexile.com/trade/search/Delirium/78877v2f5
+
+![Example](/example.png)
